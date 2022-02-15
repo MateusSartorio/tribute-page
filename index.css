@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+#description {
+  text-align: center;
+}
+
 #img-div {
     background-color: #343a40;
     padding: 15px 0;
@@ -24,6 +28,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 95%;
+    max-width: 100%;
 }
 
 #img-caption {
